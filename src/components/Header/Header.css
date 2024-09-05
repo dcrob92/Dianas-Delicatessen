@@ -1,0 +1,38 @@
+.Header-title{
+    color: pink;
+}
+
+nav{
+    background-image: url("../../assets/Header/backgrpund-menu.jpg");
+    background-size: contain;
+    background-repeat: repeat-x;
+    color: darkred;
+    list-style: none;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: darkred;
+    font-size: 100%;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+ul{
+    list-style: none;
+}

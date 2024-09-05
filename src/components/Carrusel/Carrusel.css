@@ -1,0 +1,11 @@
+.image-Banner{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: space-around;  
+}
+.image-Banner img{
+    width: 450px;
+    height: 400px;
+    object-fit: cover;
+}

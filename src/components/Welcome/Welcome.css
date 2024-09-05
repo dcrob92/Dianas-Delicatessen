@@ -1,0 +1,20 @@
+.titulo-bvn1{
+    color: rgb(118, 0, 228);
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-optical-sizing: auto;
+    font-size: 40px;
+    font-style: normal;
+    text-align: center; 
+    font-weight: 700;
+    padding-top: 3%;
+}
+
+.parrafo-bvn1{
+    font-weight: bold;
+    box-sizing: border-box;
+    text-align: -webkit-center;
+    color: #000;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-size: 25px;
+    padding: 2% 15%;
+}
