@@ -1,5 +1,5 @@
 import "./Carrusel.css";
-import carruselimg1 from "../../assets/Carrusel/banner1.jpeg"
+import carruselimg1 from "./../../assets/Carrusel/banner1.jpeg"
 import carruselimg2 from "../../assets/Carrusel/banner2.jpg"
 import carruselimg3 from "../../assets/Carrusel/banner3.jpg"
 
